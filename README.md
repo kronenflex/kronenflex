@@ -1,8 +1,8 @@
 <div class="center">
 
-<p align="center"> # 👋 Hello, I'm Diego Pavez!</p>
+# 👋 Hello, I'm Diego Pavez!
 
-<p align="center"> ### Senior Data Scientist | NLP Engineer | Machine Learning Engineer</p>
+Senior Data Scientist | NLP Engineer | Machine Learning Engineer
 
 <p align="center">Passionate about leveraging AI to solve real-world problems. I bring a wealth of experience from industries like banking, technology, and retail, focusing on natural language processing, computer vision, and machine learning. My goal is to drive innovation by integrating advanced AI solutions into business strategies.</p>
 
