@@ -1,22 +1,3 @@
-<!-- Estilo personalizado para centrar y mejorar el diseño -->
-<style>
-  .center {
-    text-align: center;
-  }
-  .tech-stack, .social-icons, .projects, .certifications {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-  .tech-stack img, .social-icons a, .projects a, .certifications a {
-    margin: 10px;
-  }
-  h1, h2, h3, h4 {
-    color: #4A90E2;
-  }
-</style>
-
 <div class="center">
 
 # 👋 Hello, I'm Diego Pavez!
