@@ -30,8 +30,8 @@ Senior Data Scientist | NLP Engineer | Machine Learning Engineer
   <a href="https://medium.com/@diego.pavezo" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="[[https://medium.com/@diego.pavezo](https://quartz-bonnet-553.notion.site/Voyager-DBSCAN-7924c8bf91e54d73887608e166480df0?pvs=25](https://quartz-bonnet-553.notion.site/Voyager-DBSCAN-7924c8bf91e54d73887608e166480df0?pvs=25))" target="_blank">
-    <img src="[https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white](https://www.google.com/search?q=notion&sca_esv=a928941906744628&rlz=1C5GCEM_en&udm=2&source=iu&ictx=1&vet=1&fir=MhaJnWUdgNpfTM%252C_0hU66NCx-fOBM%252C%252Fg%252F11fd7dbddz%253BHm6c-t4Re8smTM%252CT22Xhndl99hZVM%252C_%253BMqBuogodCCVfOM%252CIah3qc7EGqGDZM%252C_%253Bguo9SdpGbwsL7M%252CTypkss5XiYdtSM%252C_%253BpQueP4jFPoqMeM%252CioRKnoG5rartCM%252C_&usg=AI4_-kQb1Z7ixCswAUzz0sEBoDBpVXITkg&sa=X&ved=2ahUKEwjRkpqcr6iIAxUpFVkFHWBpAdkQ_B16BAg4EAE#vhid=MhaJnWUdgNpfTM&vssid=mosaic)" alt="Web">
+  <a href="https://quartz-bonnet-553.notion.site/Voyager-DBSCAN-7924c8bf91e54d73887608e166480df0" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-12100E?logo=notion&logoColor=white" alt="Web">
   </a>
   <a href="https://github.com/kronenflex" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
