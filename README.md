@@ -63,7 +63,7 @@ Passionate about leveraging AI to solve real-world problems. I bring a wealth of
   <a href="https://www.coursera.org/account/accomplishments/certificate/CERTIFICATE_ID" target="_blank">
     <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-blue?style=flat-square&logo=ibm&logoColor=white" alt="IBM Data Science Certificate">
   </a>
-  <a href="confirm.udacity.com/PFHACZMM" target="_blank">
+  <a href="https://www.udacity.com/certificate/PFHACZMM" target="_blank">
     <img src="https://img.shields.io/badge/Udacity%20Machine%20Learning%20DevOps%20Engineer-purple?style=flat-square&logo=udacity&logoColor=white" alt="Udacity ML DevOps">
   </a>
 </div>
