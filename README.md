@@ -52,7 +52,7 @@ Passionate about leveraging AI to solve real-world problems. I bring a wealth of
 - **Automated Article Classification**: Improved clinical research efficiency using GPT-4o for systematic reviews.
 
 ## 🎓 Education
-- **Master's in Artificial Intelligence** - The University of Texas at Austin (Present)
+- **Master's in Data Science** - Boston University (Present)
 - **Nanodegree in Machine Learning DevOps Engineer** - Udacity (2022-2023)
 - **Specialization in Artificial Intelligence** - Pontificia Universidad Católica de Chile (2020-2021)
 - **Professional Certificate in Data Science & Applied AI** - IBM/Coursera (2019-2020)
